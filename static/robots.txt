@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://flight-price--predictor.herokuapp.com/sitemap.xml
